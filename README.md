@@ -320,10 +320,10 @@ $
 
 ## Authors ##
 
-👤 **BESTHOR IGBE**
+👤 **BIRHAN Y. KASSAYE**
 
-- GitHub: [@besthor] (https://github.com/besthor)
+- GitHub: [@birhan-kassaye] (https://github.com/birhan-kassaye)
+ 
+👤 **VALENTINE OKOYE**
 
-👤 **MOSURO KANYINSOLA OLUBUNMI**
-
-- GitHub: [@](https://github.com)
+- GitHub: [@Valex59](https://github.com/Valex59)
